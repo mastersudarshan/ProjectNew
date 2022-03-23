@@ -7,6 +7,7 @@ public class Sample1 {
 
 		
 		System.out.println("This is second commit");
+		System.out.println("This is ten commit");
 
 
 	}
